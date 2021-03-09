@@ -14,7 +14,6 @@ const Todo = () => {
         <div className="c-todo-input__check">
           <svg
             className="c-todo-input__icon"
-            class="c-todo-input__icon"
             xmlns="http://www.w3.org/2000/svg"
             viewBox="0 0 9 6.75"
           >
