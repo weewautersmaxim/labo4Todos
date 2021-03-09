@@ -1,7 +1,10 @@
-import "./App.css";
+import "./style/settings/colors.css";
+import "./style/generic.css";
+import "./style/elements/page.css";
+import Todos from "./screens/Todos";
 
 function App() {
-  return <h1>todo app</h1>;
+  return <Todos />;
 }
 
 export default App;
